@@ -1,0 +1,15 @@
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\bin\Debug\net7.0\HomeWorkMarch.exe
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\bin\Debug\net7.0\HomeWorkMarch.deps.json
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\bin\Debug\net7.0\HomeWorkMarch.runtimeconfig.json
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\bin\Debug\net7.0\HomeWorkMarch.dll
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\bin\Debug\net7.0\HomeWorkMarch.pdb
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\obj\Debug\net7.0\HomeWorkMarch.csproj.AssemblyReference.cache
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\obj\Debug\net7.0\HomeWorkMarch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\obj\Debug\net7.0\HomeWorkMarch.AssemblyInfoInputs.cache
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\obj\Debug\net7.0\HomeWorkMarch.AssemblyInfo.cs
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\obj\Debug\net7.0\HomeWorkMarch.csproj.CoreCompileInputs.cache
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\obj\Debug\net7.0\HomeWorkMarch.dll
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\obj\Debug\net7.0\refint\HomeWorkMarch.dll
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\obj\Debug\net7.0\HomeWorkMarch.pdb
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\obj\Debug\net7.0\HomeWorkMarch.genruntimeconfig.cache
+D:\Лученок Александр\Домашнее задание\DESICION\HomeWorkMarch\obj\Debug\net7.0\ref\HomeWorkMarch.dll
